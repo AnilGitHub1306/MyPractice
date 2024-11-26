@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-25T10:30:16 IST" name="Suite" finished-at="2024-11-25T10:30:54 IST" duration-ms="37320">
+    <groups>
+    </groups>
+    <test started-at="2024-11-25T10:30:16 IST" name="Test" finished-at="2024-11-25T10:30:54 IST" duration-ms="37320">
+      <class name="com.TestClassPackage.DisableNotification_For_ChromeDriver">
+        <test-method signature="disableNotification_For_ChromeDriver()[pri:0, instance:com.TestClassPackage.DisableNotification_For_ChromeDriver@3ba987b8]" started-at="2024-11-25T10:30:17 IST" name="disableNotification_For_ChromeDriver" finished-at="2024-11-25T10:30:36 IST" duration-ms="19079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disableNotification_For_ChromeDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestClassPackage.DisableNotification_For_ChromeDriver@3ba987b8]" started-at="2024-11-25T10:30:36 IST" name="tearDown" finished-at="2024-11-25T10:30:36 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestClassPackage.DisableNotification_For_ChromeDriver -->
+      <class name="com.TestClassPackage.PrintTheHelloKeyword_Test">
+        <test-method signature="printHelloKeyword()[pri:1, instance:com.TestClassPackage.PrintTheHelloKeyword_Test@6f10d5b6]" started-at="2024-11-25T10:30:54 IST" name="printHelloKeyword" finished-at="2024-11-25T10:30:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHelloKeyword -->
+      </class> <!-- com.TestClassPackage.PrintTheHelloKeyword_Test -->
+      <class name="com.TestClassPackage.DisableNotification_For_FirefoxDriver">
+        <test-method signature="disableNotification_For_FirefoxDriver()[pri:0, instance:com.TestClassPackage.DisableNotification_For_FirefoxDriver@7ae0a9ec]" started-at="2024-11-25T10:30:36 IST" name="disableNotification_For_FirefoxDriver" finished-at="2024-11-25T10:30:54 IST" duration-ms="17739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disableNotification_For_FirefoxDriver -->
+      </class> <!-- com.TestClassPackage.DisableNotification_For_FirefoxDriver -->
+      <class name="com.TestClassPackage.Sample1_Test">
+        <test-method signature="school1()[pri:0, instance:com.TestClassPackage.Sample1_Test@1040be71]" started-at="2024-11-25T10:30:54 IST" name="school1" finished-at="2024-11-25T10:30:54 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- school1 -->
+      </class> <!-- com.TestClassPackage.Sample1_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

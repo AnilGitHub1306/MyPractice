@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.TestClassPackage.DisableNotification_For_ChromeDriver_Test"/>
+      <class name="com.TestClassPackage.DisableNotification_For_FirefoxDriver_Test"/>
+      <class name="com.TestClassPackage.DisableNotification_For_EdgeDriver_Test"/>
+      <class name="com.TestClassPackage.DisableNotification_For_SafariDriver_Test"/>
+      <class name="com.TestClassPackage.PrintTheHelloKeyword_Test"/>
+      <class name="com.TestClassPackage.Sample1_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
